@@ -4,6 +4,11 @@
 
 using namespace std;
 
+/* 
+	The TicTacToe class contains all the function and variable declarations 
+	required to make a working game of 2-player TicTacToe.
+*/
+
 class TicTacToe{
 		private:
 			int game;
