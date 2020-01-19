@@ -33,8 +33,6 @@ class TicTacToe{
 				fstream f2("STORE.TXT");
 				f2<<game;
 			}
-
-			
 }T;
 
 
