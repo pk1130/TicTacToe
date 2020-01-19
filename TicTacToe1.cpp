@@ -1,6 +1,6 @@
-#include<iostream>
-#include<process.h>
-#include<fstream>
+#include <iostream>
+#include <process.h>
+#include <fstream>
 
 using namespace std;
 
